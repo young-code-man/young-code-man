@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Chepko+Daniil....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -12,24 +12,23 @@
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  Technologies and Stacks:
+
+  Front-End: HTML, CSS, JavaScript, React, Vue.js
+  Back-End: Node.js, Python, Django, Flask, Express.js
+  Databases: MySQL, PostgreSQL, MongoDB, Redis
+  DevOps: AWS, Docker, Jenkins, Git
+  
+  Experience:
+
+  Participated in several hackathons, including HackMIT and HackNY.
+  Built projects using various technologies such as React, Node.js, Django, and AWS.
+  Worked on both front-end and back-end development, as well as full-stack development.
+  Familiar with Agile methodology and version control using Git.
+  Hope this helps! Let me know if you have any further questions.
 </p>
 
 <hr>
