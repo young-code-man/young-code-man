@@ -63,6 +63,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=young-code-man&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-code-man)](https://github.com/anuraghazra/github-readme-stats)
+[![young-code-man's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-code-man)](https://github.com/young-code-man/github-readme-stats)
 
   
 <br/><br/><br/><br/><br/><br/>
