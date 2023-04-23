@@ -25,11 +25,9 @@
   
   Experience:
 
-  Participated in several hackathons, including HackMIT and HackNY.
   Built projects using various technologies such as React, Node.js, Django, and AWS.
   Worked on both front-end and back-end development, as well as full-stack development.
   Familiar with Agile methodology and version control using Git.
-  Hope this helps! Let me know if you have any further questions.
 </p>
 
 <hr>
