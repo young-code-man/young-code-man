@@ -63,18 +63,13 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=young-code-man&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![young-code-man's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-code-man)](https://github.com/young-code-man/github-readme-stats)
+
   <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-code-man)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 [![young-code-man's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-code-man)](https://github.com/young-code-man/github-readme-stats)
   <br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=young-code-man&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=young-code-man&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=young-code-man&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=young-code-man&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=young-code-man&theme=solarized_dark)
-
 
 <br/><br/><br/><br/><br/><br/>
 
