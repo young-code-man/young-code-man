@@ -60,8 +60,10 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=young-code-man&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+<p align='center'>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=young-code-man&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+</p>
   
 <br/><br/><br/><br/><br/><br/>
 
