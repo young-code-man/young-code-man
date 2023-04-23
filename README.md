@@ -10,6 +10,7 @@
 
 <br>
 <p>
+  <br/>
   Occupation: Full-Stack Developer
   
   Technologies and Stacks:
