@@ -16,8 +16,11 @@
   Technologies and Stacks:
 
   Front-End: HTML, CSS, JavaScript, React, Vue.js
+  <br/>
   Back-End: Node.js, Python, Django, Flask, Express.js
+  <br/>
   Databases: MySQL, PostgreSQL, MongoDB, Redis
+  <br/>
   DevOps: AWS, Docker, Jenkins, Git
   
   Experience:
