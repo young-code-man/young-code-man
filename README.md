@@ -65,7 +65,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-code-man)](https://github.com/anuraghazra/github-readme-stats)
 [![young-code-man's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-code-man)](https://github.com/young-code-man/github-readme-stats)
 [![codewars](https://www.codewars.com/users/young-code-man/badges/small)](https://www.codewars.com/users/young-code-man) 
-[![young-code-man's github activity graph](https://activity-graph.herokuapp.com/graph?username=young-code-man)](https://github.com/young-code-man/github-readme-activity-graph)
 
   
 <br/><br/><br/><br/><br/><br/>
